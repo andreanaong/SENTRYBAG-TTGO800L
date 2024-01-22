@@ -8,7 +8,7 @@ const char simPIN[]   = "";
 
 // Your phone number to send SMS: + (plus sign) and country code, for the Philippines +63, followed by phone number
 // SMS_TARGET Example for the Philippines +639XXXXXXXXX
-const String SMS_TARGET[3] = {"+639452900842"};
+const String SMS_TARGET[3] = {"+639XXXXXXXXX"};
 
 
 // Configure TinyGSM library
